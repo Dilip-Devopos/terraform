@@ -1,0 +1,6 @@
+aws-region                      = "us-east-1"
+subnet_id                       = "subnet-0d4d66c0411fe751d"
+aws-instance-type               = "t2.medium"
+aws-instance-ami                = "ami-084568db4383264d4"
+aws-instance-tag                = "Guvi-tfvar"
+aws-associate_public_ip_address = "true"
